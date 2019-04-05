@@ -1,4 +1,6 @@
 # [Epistol.info](http://epistol.info)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEpistol%2FTheme-Epistol.info.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEpistol%2FTheme-Epistol.info?ref=badge_shield)
+
 
 Thème simple quasi fini.
 
@@ -60,3 +62,7 @@ Thème simple quasi fini.
 * Category support for showing the Category of post
 * Author support showing the author
 * Demo Custom Page Template for expansion
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEpistol%2FTheme-Epistol.info.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEpistol%2FTheme-Epistol.info?ref=badge_large)
